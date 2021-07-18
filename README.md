@@ -10,5 +10,5 @@ IAR project folder contains c++ projects such
 
 
 Languages:  C++
-Tools: Matlab/Octave , IAR workbench
+Tools: Matlab/Octave , IAR workbench , Putty
 Board: STM32F429 Discovery board
