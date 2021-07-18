@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\ESIGELEC.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Experiment2.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Experiment3.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Experiment4.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Experiment5.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Experiment6.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Last-experiment.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
